@@ -1,0 +1,49 @@
+Quadro,Momento_Jogo,Setor,Numero_Camisa,Posicao_Tatica,Coordenada_X,Coordenada_Y,Acao_Executada,Intensidade_Pressao,Zona_Campo,Velocidade_KmH
+1,Organizacao Ofensiva,Defesa,4,Zagueiro Central,998.56,542.39,Passe Curto de Seguranca,Baixa,Primeiro Terço,12.4
+1,Organizacao Ofensiva,Meio-Campo,5,Volante,1739.83,512.17,Linha de Passe Oculta,Media,Bloco Intermediario,14.8
+1,Organizacao Ofensiva,Ataque,10,Meia-Atacante,1659.25,493.83,Recepcao Orientada entre Linhas,Alta,Ultimo Terço,18.5
+1,Organizacao Ofensiva,Ataque,9,Centroavante,636.93,513.55,Desmarcacao em Ruptura,Alta,Zona de Finalizacao,22.1
+2,Organizacao Ofensiva,Defesa,4,Zagueiro Central,995.69,551.80,Conducao Progressiva,Media,Primeiro Terço,13.2
+2,Organizacao Ofensiva,Meio-Campo,5,Volante,1739.44,512.18,Apoio Frontal,Baixa,Bloco Intermediario,15.1
+2,Organizacao Ofensiva,Ataque,10,Meia-Atacante,1657.73,494.55,Passe Tensionsado de Rotura,Alta,Ultimo Terço,19.4
+2,Organizacao Ofensiva,Ataque,9,Centroavante,636.56,512.59,Arrancada em diagonal,Alta,Zona de Finalizacao,24.3
+3,Transicao Ofensiva,Meio-Campo,8,Segundo Volante,591.69,441.41,Recuperacao de Bola,Alta,Bloco Intermediario,21.5
+3,Transicao Ofensiva,Meio-Campo,10,Meia-Atacante,1657.44,494.67,Giro Rapido Pos-Recuperacao,Alta,Bloco Intermediario,23.2
+3,Organizacao Ofensiva,Ataque,7,Ponta Direita,998.81,525.80,Alargamento de Largura,Media,Ultimo Terço,16.8
+4,Organizacao Ofensiva,Defesa,3,Zagueiro Esquerdo,630.89,504.99,Inversao de Jogo em Diagonal,Baixa,Primeiro Terço,11.5
+4,Organizacao Ofensiva,Meio-Campo,10,Meia-Atacante,1656.28,495.16,Controlo Orientado Sob Pressao,Alta,Ultimo Terço,17.9
+4,Organizacao Ofensiva,Ataque,11,Ponta Esquerda,996.35,527.40,Diagonal Interior de Linha,Media,Ultimo Terço,20.2
+5,Organizacao Defensiva,Defesa,2,Lateral Direito,1736.31,513.30,Fechamento de Linha de Passagem,Alta,Primeiro Terço,19.8
+5,Organizacao Defensiva,Defesa,6,Lateral Esquerdo,351.57,463.57,Cobertura Defensiva Lateral,Media,Primeiro Terço,18.2
+5,Organizacao Defensiva,Meio-Campo,8,Segundo Volante,591.99,429.76,Duelo Aereo Vencido,Alta,Bloco Intermediario,21.0
+6,Organizacao Defensiva,Meio-Campo,5,Volante,616.22,501.76,Compactacao Setorial (Reducao de Espaco),Alta,Bloco Intermediario,16.4
+6,Organizacao Defensiva,Ataque,10,Meia-Atacante,990.31,525.19,Pressao Reativa Pos-Perda,Alta,Bloco Intermediario,23.8
+7,Transicao Defensiva,Defesa,4,Zagueiro Central,1649.33,494.28,Retirada de Espaco nas Costas,Alta,Primeiro Terço,25.1
+7,Transicao Defensiva,Meio-Campo,8,Segundo Volante,594.95,421.06,Falta Tatica de Interrupcao,Alta,Bloco Intermediario,26.4
+8,Bolas Paradas,Defesa,4,Zagueiro Central,980.94,530.88,Marcacao Individual Estrita,Alta,Area Defensiva,15.6
+8,Bolas Paradas,Defesa,5,Volante,994.69,520.26,Rebote de Primeira Zona,Alta,Area Defensiva,17.1
+9,Organizacao Ofensiva,Meio-Campo,10,Meia-Atacante,1646.30,493.57,Passe Chave Filtrante,Alta,Ultimo Terço,19.2
+9,Organizacao Ofensiva,Ataque,9,Centroavante,606.90,499.73,Finta Coordenada,Alta,Zona de Finalizacao,23.5
+10,Organizacao Ofensiva,Ataque,7,Ponta Direita,977.81,532.22,Cruzamento Tensor na Area,Alta,Ultimo Terço,24.1
+10,Organizacao Ofensiva,Ataque,11,Ponta Esquerda,998.09,502.89,Ataque ao Segundo Poste,Alta,Zona de Finalizacao,26.8
+11,Organizacao Ofensiva,Defesa,1,Goleiro,1644.68,495.73,Reposicao com Pe Curta,Baixa,Area Defensiva,8.2
+11,Organizacao Ofensiva,Meio-Campo,5,Volante,596.09,499.80,Linha de Apoio Direta,Media,Primeiro Terço,14.5
+12,Organizacao Ofensiva,Meio-Campo,8,Segundo Volante,796.77,513.95,Mudanca de Ritmo de Jogo,Alta,Bloco Intermediario,21.8
+13,Organizacao Ofensiva,Ataque,10,Meia-Atacante,1641.32,495.48,Finalizacao de Media Distancia,Alta,Zona de Finalizacao,27.5
+14,Organizacao Defensiva,Meio-Campo,5,Volante,584.95,496.43,Temporizacao Ofensiva do Adversario,Media,Bloco Intermediario,15.3
+15,Organizacao Defensiva,Defesa,2,Lateral Direito,1703.63,512.83,Desarme Rasteiro Lateral,Alta,Primeiro Terço,20.4
+16,Transicao Ofensiva,Meio-Campo,10,Meia-Atacante,1601.43,512.69,Conducao em Transicao Rapida,Alta,Bloco Intermediario,28.2
+17,Organizacao Ofensiva,Ataque,9,Centroavante,579.01,499.42,Protecao de Bola de Costa,Alta,Ultimo Terço,17.6
+18,Organizacao Ofensiva,Ataque,7,Ponta Direita,947.99,552.72,Desmarcacao de Rotura em Extensao,Alta,Ultimo Terço,24.9
+19,Organizacao Ofensiva,Meio-Campo,8,Segundo Volante,824.95,523.94,Linha de Passe Intermedia,Media,Bloco Intermediario,16.2
+20,Organizacao Ofensiva,Ataque,11,Ponta Esquerda,940.63,551.94,Diagonal de Remate Cruzado,Alta,Zona de Finalizacao,26.1
+21,Organizacao Defensiva,Defesa,3,Zagueiro Esquerdo,939.02,552.03,Bloqueio de Remate Direto,Alta,Area Defensiva,18.9
+22,Transicao Defensiva,Meio-Campo,5,Volante,935.33,552.97,Retirada de Linha Defensiva,Alta,Bloco Baixo,20.1
+23,Bolas Paradas,Ataque,4,Zagueiro Central,930.88,553.47,Cabeca em Zona de Oportunidade,Alta,Area Ofensiva,21.4
+24,Organizacao Ofensiva,Meio-Campo,10,Meia-Atacante,927.92,554.72,Passe de Seguranca Lateral,Baixa,Bloco Intermediario,12.8
+25,Organizacao Ofensiva,Defesa,2,Lateral Direito,1677.77,511.42,Apoio Profundo pelo Corredor,Media,Primeiro Terço,17.5
+26,Organizacao Ofensiva,Meio-Campo,8,Segundo Volante,839.75,523.77,Mudanca de Orientacao Tectica,Alta,Bloco Intermediario,19.8
+27,Organizacao Ofensiva,Ataque,9,Centroavante,1670.77,512.19,Finta de Corpo com Desmarcacao,Alta,Zona de Finalizacao,23.4
+28,Organizacao Ofensiva,Meio-Campo,10,Meia-Atacante,1668.10,512.33,Passe em Profundidade Cirurgico,Alta,Ultimo Terço,25.6
+29,Organizacao Ofensiva,Ataque,7,Ponta Direita,919.57,553.55,Finta 1x1 na Linha de Fundo,Alta,Ultimo Terço,24.2
+30,Organizacao Defensiva,Meio-Campo,6,Lateral Esquerdo,913.65,553.65,Duelo Terrestre Vencido,Alta,Bloco Baixo,22.1
